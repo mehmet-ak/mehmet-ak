@@ -7,7 +7,7 @@
 
 - 🎓 Computer Engineering student at **Gebze Technical University** <a href="https://www.gtu.edu.tr/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIztJfUhPZypjlJNlmBqAJ7uORctp2UyKBw&amp" alt="GTU" height="20" width="20"/></a>
 
-- 🛠️ Currently building an **AI-powered IoT smart assistant** (Raspberry Pi & ESP32)
+- 🛠️ Currently building an **AI-powered IoT smart assistant**
 
 - 👾 Developing a **Metroidvania-style PC game**  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a>
 
