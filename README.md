@@ -9,7 +9,7 @@
 
 - 🛠️ Currently building an **AI-powered IoT smart assistant** (Raspberry Pi & ESP32)
 
-- 👾 Developing a **Metroidvania-style PC game**  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a>
+- 👾 Developing a **Metroidvania-style PC game**  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a>
 
 - 🌱 I’m currently learning **JavaScript** <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></a>
 
@@ -22,6 +22,8 @@
 <a href="https://linkedin.com/in/mehmet-ak-839a45290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/_ak.mehmet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
+
+<h1></h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
