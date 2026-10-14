@@ -11,7 +11,7 @@
 
 - 👾 Developing a **Metroidvania-style PC game**  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a>
 
-- 🌱 I’m currently learning **C++** <a href="https://isocpp.org/" target="blank"><img align="center" src="https://isocpp.org/assets/images/cpp_logo.png" alt="JavaScript" width="20" height="20"/></a>
+- 🌱 I’m currently learning **C++** <a href="https://isocpp.org/" target="blank"><img align="center" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++" width="20" height="20"/></a>
 
 - 📫 Contact me: **mhmt.ak@outlook.com.tr** <a href="https://outlook.live.com/" target="blank"><img align="center" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Outlook-28x281?resMode=sharp2&amp" alt="Outlook" width="20" height="20"/></a>
 
